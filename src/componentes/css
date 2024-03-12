@@ -1,0 +1,68 @@
+
+
+.organize {
+
+ 
+  margin: 200px;
+}
+
+
+.laptopes {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  gap: 50px;
+  
+  
+  margin: 100px 10px;
+  
+}
+
+
+.cycleimg{
+  border: 1px solid;
+  align-items: center;
+  border-radius: 5px;
+  background: #F1DFDF;
+
+
+}
+.cycleimg img{
+  padding: 45px;
+}
+.plusimg i{
+  color: white;
+font-size: 20px;
+border: 1px solid;
+border-radius: 50%;
+background-color: black;
+  text-align: center;
+ text-align: center;
+ }
+.plusimg{
+
+}
+
+
+
+.camerimg{
+  border: 1px solid;
+  border-radius: 10px;
+  background: #DFEBF1;
+}
+.camerimg img{
+  padding: 50px;
+  border-radius: 10px;
+}
+
+
+
+.contentext{
+  margin: 20px 0px;
+}
+
+.contentext h5{
+  font-size: 20px;
+}
+
+
+

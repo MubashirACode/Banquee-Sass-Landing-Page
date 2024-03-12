@@ -1,0 +1,40 @@
+
+@media screen and (max-width:1024px) {
+  
+  .social{
+    margin-left: -650px;
+  }
+
+.socialmidialist i{
+  width: 8%;
+}
+  .money{
+    margin: 0px -150px;
+  }
+
+}
+@media screen and (max-width:786px) {
+  .money{
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+ 
+    margin: 0px 0px 0px 99px;
+    
+    
+  }
+  .socialmidialist{
+    width: 100%;
+  }
+  .social{
+  align-items: center ;
+ margin: 0px 50px;
+  }
+  .recive{
+
+  }
+  .socialmidialist i{
+    width: 12%;
+  }
+  
+}
